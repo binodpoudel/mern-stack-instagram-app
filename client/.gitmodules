@@ -1,0 +1,3 @@
+[submodule "mern-stack-instagram-app"]
+	path = mern-stack-instagram-app
+	url = https://github.com/binodpoudel/mern-stack-instagram-app.git
